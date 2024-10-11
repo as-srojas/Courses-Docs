@@ -51,7 +51,3 @@ Permite extraer datos de respuestas HTML utilizando selectores CSS o JQuery. Est
 ### 5. **Debug PostProcessor**
 
 Este Post Processor permite depurar la información relacionada con las variables y respuestas de las solicitudes. Es útil para obtener detalles adicionales sobre el flujo de ejecución de las pruebas.
-
-## Conclusión
-
-Los Pre Processors y Post Processors en JMeter permiten personalizar y manipular las pruebas de rendimiento de manera dinámica, ya sea modificando los datos antes de enviar una solicitud o extrayendo información clave de las respuestas. Estos elementos son esenciales para diseñar pruebas de carga más avanzadas y precisas, y conocer su funcionamiento es clave para obtener mejores resultados en el análisis de rendimiento de aplicaciones.
