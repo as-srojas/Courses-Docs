@@ -85,8 +85,6 @@ end
 
 ## Manejo de excepciones
 
-Ruby tiene un manejo de excepciones sencillo.
-
 ```ruby
 begin
   # Código propenso a error
@@ -95,5 +93,3 @@ rescue ZeroDivisionError
   puts "No se puede dividir por cero."
 end
 ```
-
-Ruby es un lenguaje flexible y poderoso, ideal para el desarrollo de aplicaciones web y scripts de automatización.
